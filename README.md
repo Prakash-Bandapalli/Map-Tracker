@@ -63,7 +63,11 @@ This project is a web application backed by PostgreSQL, featuring robust authent
   ```
   npm start
   ```
-  
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please feel free to submit them through the project's GitHub repository.
+
 
 ### Note:
 - Please note that the frontend part of the project is not yet complete. I will be finishing that soon.
