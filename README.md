@@ -8,7 +8,7 @@ This project is a web application backed by PostgreSQL, featuring robust authent
 - Node.js:
   - Node versions 8.x, 10.x, 12.x, and 14.x or later are supported.
 - PostgreSQL:
-  - pg@8.2.x or later.
+  - pg 8.2.x or later.
 
 ### Cloning the Repository:
 - Open a terminal or command prompt.
@@ -22,6 +22,12 @@ This project is a web application backed by PostgreSQL, featuring robust authent
 - Change directory to the cloned project directory:
   ```
   cd Map-Tracker-main
+  ```
+
+### Installing Dependencies:
+- Install project dependencies:
+  ```
+  npm install
   ```
 
 ### Database Setup:
@@ -50,12 +56,6 @@ This project is a web application backed by PostgreSQL, featuring robust authent
   PG_DATABASE=world
   PG_PASSWORD=YourPassword
   PG_PORT=5432
-  ```
-
-### Installing Dependencies:
-- Install project dependencies:
-  ```
-  npm install
   ```
 
 ### Starting the Application:
